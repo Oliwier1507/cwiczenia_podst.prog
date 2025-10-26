@@ -1,1 +1,1 @@
-# cwiczenia_19.10
+# Repozytorium przechowuje kody powstałe w ramach ćwiczeń
