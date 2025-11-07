@@ -1,8 +1,10 @@
 using System;
 
-class Program
+internal class Program
 {
-    static void Main()
+    // Zadanie 3.11 - rysunek zależny od n (nieparzyste 9..15)
+    // Program pyta użytkownika o n i rysuje kwadrat z podziałem na 4 mniejsze.
+    private static void Main(string[] args)
     {
         Console.Write("Wprowadź liczbę wierszy (od 9 do 15 nieparzysta): ");
         string input = Console.ReadLine();

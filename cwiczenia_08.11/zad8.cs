@@ -1,8 +1,8 @@
 using System;
 
-class Program
+internal class Program
 {
-    static void Main()
+    private static void Main(string[] args)
     {
         Console.Write("Podaj liczbę naturalną: ");
         int n = int.Parse(Console.ReadLine());

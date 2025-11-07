@@ -1,8 +1,10 @@
 using System;
 
-class Program
+internal class Program
 {
-    static void Main()
+    // Zadanie 3.12 - wypisz wszystkie liczby bliźniacze (twin primes) w <1;100>
+    // Zastosowano prosty test pierwszości z użyciem break.
+    private static void Main(string[] args)
     {
         Console.WriteLine("Liczby bliźniacze w przedziale <1;100>:");
         for (int p = 2; p <= 98; p++)
