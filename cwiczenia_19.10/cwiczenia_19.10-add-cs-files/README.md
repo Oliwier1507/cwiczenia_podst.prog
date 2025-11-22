@@ -1,1 +1,1 @@
-# cwiczenia_19.10
+# Instrukcje IO, instrukcje warunkowe
